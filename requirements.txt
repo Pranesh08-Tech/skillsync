@@ -1,0 +1,7 @@
+# SkillSync dependencies
+streamlit>=1.35.0
+chromadb>=0.5.0
+requests>=2.31.0
+langchain>=0.2.0
+sentence-transformers>=3.0.0
+pyvis>=0.3.2
